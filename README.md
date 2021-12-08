@@ -1,12 +1,8 @@
 # Portfolio V2💫
 
-![sadme](https://user-images.githubusercontent.com/78084828/134413246-edf51b3a-736d-4c2a-a42b-6306d6372d4f.png)
+This is the version 2 of my portfolio with some improvements and design changes. You can visit the website and let me know your thoughts
 
-\
-I'm trying to figure out what to write in this README.
-
-
-_Please visit later, will you?_
+[Visit Here 🚀 ](https://shubhamashish33.github.io/aboutmev2/)
 
 
-[Check out](https://github.com/shubhamashish33/aboutme) version 1 💙
+If you want to check the previous version you can [Check out](https://github.com/shubhamashish33/aboutme) here.
